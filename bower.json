@@ -1,0 +1,7 @@
+{
+  "name": "google-apis#gh-pages",
+  "private": true,
+  "dependencies": {
+    "google-apis": "PolymerLabs/google-apis#master"
+  }
+}
